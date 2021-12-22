@@ -19,12 +19,10 @@ I currently work for [Cluster Inc.](https://corp.cluster.mu/)
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-    <img alt="stats card" src="https://github-readme-stats.vercel.app/api?username=thara&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
+    <img align="center" alt="stats card" src="https://github-readme-stats.vercel.app/api?username=thara&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
 </a>
 
-## Top Languages Used
-
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img alt="top languages" src="https://github-readme-stats.vercel.app/api?username=thara&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
+    <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thara&layout=compact&theme=algolia"/>
 </a>
 
