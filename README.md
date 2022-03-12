@@ -1,6 +1,6 @@
 Software Engineer for Metaverse Platform Engine, Geek and Dad of twins in Aichi, Japan.
 
-I currently work for [Cluster Inc.](https://corp.cluster.mu/)
+I currently work for [Cluster, Inc.](https://corp.cluster.mu/)
 
 - [personal site](https://thara.dev)
 - [Twitter](https://twitter.com/zetta1985)
