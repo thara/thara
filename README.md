@@ -1,7 +1,5 @@
 A Software Engineer, Geek and Dad of twins in Aichi, Japan.
 
-Senior Software Engineer at [Cluster, Inc.](https://corp.cluster.mu/).
-
 [thara.dev](https://thara.dev)
 
 - I use Go, Swift(outside of apple platform), Rust, Ruby, Python, Java, Kotlin, Dart, etc...
