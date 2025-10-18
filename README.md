@@ -21,7 +21,7 @@ Most of my work focuses on backend systems, infrastructure tooling, and internal
 ## Bio
 
 Systems geek, terminal enthusiast, and firm believer that tools should stay out of your way.  
-Collector of printed UNIX & programming books.  
+
 Ideal weekend: silence, a clean terminal, and two sleeping kids.
 
 ---
