@@ -1,11 +1,11 @@
 Software Engineer, Geek, and Dad of twins in Aichi, Japan.   
-Focused on building scalable cloud infrastructure and internal platforms.
+Focused on building scalable cloud infrastructure.
 
 ## Profile
 
 - **Languages**: Go, Swift (outside Apple platforms), Rust, Ruby, Python, Java, Kotlin, Dart  
 - **Protocols / Ecosystem**: Prefer Protocol Buffers & gRPC
-- **Interests**: Distributed systems, observability, and concurrent programming in Go
+- **Interests**: Distributed systems, observability, and concurrent programming
 - **Practices**: Domain modeling, data modeling, testing, and refactoring  
 - **Terminal Life**: Minimalism, vim bindings, and a deep distrust of syntax highlighting
 
