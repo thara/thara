@@ -22,7 +22,7 @@ Building cloud platforms, not just using them.
 
 ## What I Do
 
-I turn ambiguous problems into structured systems.
+I design systems that make complex problems understandable and operable.
 
 I've led server architecture for a metaverse platform, scaled mobile game backends past 10M downloads, and now build services that meet government cloud requirements.
 
